@@ -24,7 +24,7 @@
       ], 
       "repo": "https://github.com/zzsnn/Scripts/blob/master/Task/youth.js", 
       "id": "youth", 
-      "script": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/youth.js", 
+      "script": "https://raw.githubusercontent.com/zzsnn/Scripts/master/Task/youth.js", 
       "settings": [
         {
           "id": "zqcard", 
@@ -101,7 +101,7 @@
       ],
       "repo": "https://github.com/zzsnn/Scripts/blob/master/Task/Youth_Read.js", 
       "id": "youthRead", 
-      "script": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/Youth_Read.js", 
+      "script": "https://raw.githubusercontent.com/zzsnn/Scripts/master/Task/Youth_Read.js", 
       "name": "sunert中青自动阅读", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
@@ -119,7 +119,7 @@
       ], 
       "repo": "https://github.com/zzsnn/Scripts/blob/master/Task/youth_gain.js", 
       "id": "youthGain", 
-      "script": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/youth_gain.js", 
+      "script": "https://raw.githubusercontent.com/zzsnn/Scripts/master/Task/youth_gain.js", 
       "name": "sunert中青浏览赚&看看赚", 
       "icons": [
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
@@ -136,7 +136,7 @@
       ], 
       "repo": "https://github.com/zzsnn/Scripts/blob/master/Task/jukan.js", 
       "id": "jukan", 
-      "script": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/jukan.js", 
+      "script": "https://raw.githubusercontent.com/zzsnn/Scripts/master/Task/jukan.js", 
       "settings": [
         {
           "id": "jukan_out", 
@@ -196,9 +196,9 @@
         "bdspeed",
         "cash_baidu"
       ], 
-      "repo": "https://github.com/zzsnn/Scripts/blob/master/Task/baiduspeed.js", 
+      "repo": "https://github.com/zzsnn/Scripts/blob/master/Task/baidu_speed.js", 
       "id": "baidu_speed", 
-      "script": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/baiduspeed.js", 
+      "script": "https://raw.githubusercontent.com/zzsnn/Scripts/master/Task/baidu_speed.js", 
       "settings": [
         {
           "items": [
