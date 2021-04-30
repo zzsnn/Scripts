@@ -4,23 +4,23 @@
     "task": [
         {
             "config": "10 */1 * * * https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/youth.js, tag=sunert中青签到&转盘宝箱&时长, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
-            "addons": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=sunert中青签到&转盘宝箱&时长, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/zzsnn/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=sunert中青签到&转盘宝箱&时长, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
             "config": "*/25 8-12 * * * https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/Youth_Read.js, tag=sunert中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
-            "addons": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/TaskConf/youth/qx_youthread.txt, tag=sunert中青自动阅读, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/zzsnn/Scripts/master/TaskConf/youth/qx_youthread.txt, tag=sunert中青自动阅读, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
             "config": "20 5 10 * * * https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/youth_gain.js, tag=sunert中青浏览赚&看看赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
-            "addons": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=sunert中青浏览赚&看看赚, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/zzsnn/Scripts/master/TaskConf/youth/qx_rewite.txt, tag=sunert中青浏览赚&看看赚, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
             "config": "*/10 */3 * * * https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/jukan.js, tag=sunert聚看点, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/jukan.png, enabled=true", 
-            "addons": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/TaskConf/jukan/qx_rewite.txt, tag=sunert聚看点, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/zzsnn/Scripts/master/TaskConf/jukan/qx_rewite.txt, tag=sunert聚看点, update-interval=-1, opt-parser=false, enabled=true"
         }, 
         {
             "config": "*/30 */5 * * * https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/Task/baiduspeed.js, tag=sunert百度极速版, img-url=https://raw.githubusercontent.com/Sunert/Profiles/master/QuantumultX/Rules/Images/icon/baiduspeed.png, enabled=true",
-            "addons": "https://cdn.jsdelivr.net/gh/zzsnn/Scripts/master/TaskConf/baidu/qx_rewite.txt, tag=sunert百度极速, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/zzsnn/Scripts/master/TaskConf/baidu/qx_rewite.txt, tag=sunert百度极速, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
