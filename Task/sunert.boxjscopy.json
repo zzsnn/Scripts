@@ -2,7 +2,7 @@
   "id": "sunert.app.sub", 
   "author": "@Sunert", 
   "icon": "https://avatars2.githubusercontent.com/u/47924389?s=460&u=5152f048a9e8aaa45102763a578172407c40fcc8&v=4", 
-  "name": "Sunert 签到应用订阅", 
+  "name": "自用签到应用订阅(原Sunert)", 
   "repo": "https://github.com/Sunert/Scripts/tree/master", 
   "apps": [
     {
@@ -82,6 +82,8 @@
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
       ]
     }, 
+
+
     {
       "author": "@sunert", 
       "keys": [
@@ -106,6 +108,9 @@
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
       ]
     },
+
+
+
     {
       "author": "@sunert", 
       "keys": [
@@ -121,6 +126,8 @@
         "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
       ]
     },
+
+
     {
       "author": "@sunert", 
       "keys": [
@@ -180,6 +187,8 @@
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan.png"
       ]
     },
+
+
     {
       "author": "@sunert", 
       "keys": [
