@@ -250,7 +250,7 @@
           "id": "fqkks",
           "name": "番茄看看",
           "keys": ["fqkkurl", "fqkkhd", "fqkkurl2", "fqkkhd2","fqkkurl3", "fqkkhd3","fqkkurl4", "fqkkhd4","fqkkurl5", "fqkkhd5","fqkkurl6", "fqkkhd6","fqkkurl7", "fqkkhd7","fqkkurl8", "fqkkhd8","fqkkurl9", "fqkkhd9","fqkkurl10", "fqkkhd10","fqkkurl11", "fqkkhd11"],
-          "author": "@feizao",
+          "author": "@",
           "settings": [{
           "id": "fqkkstatus",
           "name": "当前账号",
@@ -265,8 +265,31 @@
           "type": "number",
           "desc": "需要几个账号，数字为几"
     }],
-          "repo": "https://github.com/xxx",
-          "icons": ["https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg", "https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg"],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
+    },
+    {
+          "id": "qgyds",
+          "name": "趣阁阅读",
+          "keys": ["qgydurl", "qgydhd", "qgydbody", "qgydurl2", "qgydhd2", "qgydbody2", "qgydurl3", "qgydhd3", "qgydbody3", "qgydurl4", "qgydhd4", "qgydbody4", "qgydurl5", "qgydhd5", "qgydbody5", "qgydurl6", "qgydhd6", "qgydbody6", "qgydurl7", "qgydhd7", "qgydbody7", "qgydurl8", "qgydhd8", "qgydbody8", "qgydurl9", "qgydhd9", "qgydbody9", "qgydurl10", "qgydhd10", "qgydbody10", "qgydurl11", "qgydhd11","qgydbody11"],
+          "author": "@",
+          "settings": [{
+          "id": "qgydstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "qgydcount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
           "script": "https://raw.githubusercontent.com/xxxxx"
     }
   ]
