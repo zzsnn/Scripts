@@ -269,11 +269,10 @@
           "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
           "script": "https://raw.githubusercontent.com/xxxxx"
     },
-
     {
           "id": "qgyds",
           "name": "趣阁阅读",
-          "keys": ["qgydurl", "qgydhd", "qgydurl2", "qgydhd2","qgydurl3", "qgydhd3","qgydurl4", "qgydhd4","qgydurl5", "qgydhd5","qgydurl6", "qgydhd6","qgydurl7", "qgydhd7","qgydurl8", "qgydhd8","qgydurl9", "qgydhd9","qgydurl10", "qgydhd10","qgydurl11", "qgydhd11"],
+          "keys": ["qgydurl", "qgydhd", "qgydbody", "qgydurl2", "qgydhd2", "qgydbody2", "qgydurl3", "qgydhd3", "qgydbody3", "qgydurl4", "qgydhd4", "qgydbody4", "qgydurl5", "qgydhd5", "qgydbody5", "qgydurl6", "qgydhd6", "qgydbody6", "qgydurl7", "qgydhd7", "qgydbody7", "qgydurl8", "qgydhd8", "qgydbody8", "qgydurl9", "qgydhd9", "qgydbody9", "qgydurl10", "qgydhd10", "qgydbody10", "qgydurl11", "qgydhd11","qgydbody11"],
           "author": "@",
           "settings": [{
           "id": "qgydstatus",
