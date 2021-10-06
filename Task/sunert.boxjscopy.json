@@ -269,10 +269,11 @@
           "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
           "script": "https://raw.githubusercontent.com/xxxxx"
     },
+
     {
           "id": "qgyds",
           "name": "趣阁阅读",
-          "keys": ["qgydurl", "qgydhd", "qgydbody", "qgydurl2", "qgydhd2", "qgydbody2", "qgydurl3", "qgydhd3", "qgydbody3", "qgydurl4", "qgydhd4", "qgydbody4", "qgydurl5", "qgydhd5", "qgydbody5", "qgydurl6", "qgydhd6", "qgydbody6", "qgydurl7", "qgydhd7", "qgydbody7", "qgydurl8", "qgydhd8", "qgydbody8", "qgydurl9", "qgydhd9", "qgydbody9", "qgydurl10", "qgydhd10", "qgydbody10", "qgydurl11", "qgydhd11","qgydbody11"],
+          "keys": ["qgydurl", "qgydhd", "qgydbody", "qgydurl2", "qgydhd2", "qgydbody2", "qgydurl3", "qgydhd3", "qgydbody3", "qgydurl4", "qgydhd4", "qgydbody4", "qgydurl5", "qgydhd5", "qgydbody5", "qgydurl6", "qgydhd6", "qgydbody6", "qgydurl7", "qgydhd7", "qgydbody7", "qgydurl8", "qgydhd8", "qgydbody8", "qgydurl9", "qgydhd9", "qgydbody9", "qgydurl10", "qgydhd10", "qgydbody10", "qgydurl11", "qgydhd11","qgydbody"],
           "author": "@",
           "settings": [{
           "id": "qgydstatus",
@@ -291,6 +292,55 @@
           "repo": "https://github.com/zzsn",
           "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
           "script": "https://raw.githubusercontent.com/xxxxx"
+    },
+
+    {
+          "id": "mryds",
+          "name": "每日阅读",
+          "keys": ["mrydurl", "mrydhd", "mrydbody", "mrydurl2", "mrydhd2", "mrydbody2", "mrydurl3", "mrydhd3", "mrydbody3", "mrydurl4", "mrydhd4", "mrydbody4", "mrydurl5", "mrydhd5", "mrydbody5", "mrydurl6", "mrydhd6", "mrydbody6", "mrydurl7", "mrydhd7", "mrydbody7", "mrydurl8", "mrydhd8", "mrydbody8", "mrydurl9", "mrydhd9", "mrydbody9", "mrydurl10", "mrydhd10", "mrydbody10", "mrydurl11", "mrydhd11","mrydbody"],
+          "author": "@",
+          "settings": [{
+          "id": "mrydstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "mrydcount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
+    },
+
+    {
+          "id": "jyy",
+          "name": "加油鸭",
+          "keys": ["jyyurl", "jyyhd", "jyyurl2", "jyyhd2","jyyurl3", "jyyhd3", "jyyurl4", "jyyhd4","jyyurl5", "jyyhd5","jyyurl6", "jyyhd6",  "jyyurl7", "jyyhd7","jyyurl8", "jyyhd8", "jyyurl9", "jyyhd9","jyyurl10", "jyyhd10", "jyyurl11", "jyyhd11"],
+          "author": "@",
+          "settings": [{
+          "id": "jyystatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "jyycount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
     }
+
   ]
 }
