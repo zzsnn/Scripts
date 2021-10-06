@@ -316,30 +316,6 @@
           "repo": "https://github.com/zzsn",
           "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
           "script": "https://raw.githubusercontent.com/xxxxx"
-    },
-
-    {
-          "id": "jyy",
-          "name": "加油鸭",
-          "keys": ["jyyurl", "jyyhd", "jyyurl2", "jyyhd2","jyyurl3", "jyyhd3", "jyyurl4", "jyyhd4","jyyurl5", "jyyhd5","jyyurl6", "jyyhd6",  "jyyurl7", "jyyhd7","jyyurl8", "jyyhd8", "jyyurl9", "jyyhd9","jyyurl10", "jyyhd10", "jyyurl11", "jyyhd11"],
-          "author": "@",
-          "settings": [{
-          "id": "jyystatus",
-          "name": "当前账号",
-          "val": "1",
-          "type": "number",
-          "desc": "当前账号对应"
-    },
-    {
-          "id": "jyycount",
-          "name": "账号个数",
-          "val": "1",
-          "type": "number",
-          "desc": "需要几个账号，数字为几"
-    }],
-          "repo": "https://github.com/zzsn",
-          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
-          "script": "https://raw.githubusercontent.com/xxxxx"
     }
 
   ]
