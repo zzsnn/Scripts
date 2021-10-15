@@ -300,6 +300,13 @@
             "keys": ["mryd"],
             "author": "@zzsnn",
             "settings": [{
+                "id": "mrydConcurrency",
+                "val": "1",
+                "name": "并发执行账号数",
+                "type": "text",
+                "desc": "默认单账号跑任务，指定大于1的数值时，将并发执行多个账号的任务，请勿设置过大，避免NE工具崩溃（太大估计会崩溃吧）"
+              },
+              {
                 "id": "mryd",
                 "val": "",
                 "name": "CK 列表",
