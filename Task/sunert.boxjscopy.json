@@ -342,6 +342,30 @@
             "repo": "https://github.com/zzsn",
             "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
             "script": "https://raw.githubusercontent.com/xxxxx"
+    },
+       {
+            "id": "opposc",
+            "name": "oppo商城",
+            "keys": ["opposc"],
+            "author": "@zzsnn",
+            "settings": [{
+                "id": "opposcConcurrency",
+                "val": "1",
+                "name": "并发执行账号数",
+                "type": "text",
+                "desc": "默认单账号跑任务，指定大于1的数值时，将并发执行多个账号的任务，请勿设置过大，避免NE工具崩溃（太大估计会崩溃吧）"
+              },
+              {
+                "id": "opposc",
+                "val": "",
+                "name": "CK 列表",
+                "type": "textarea",
+                "rows": 8,
+                "desc": "oppoCK 列表 (JSON 格式)"
+              } ],
+            "repo": "https://github.com/zzsn",
+            "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+            "script": "https://raw.githubusercontent.com/xxxxx"
     }
 
   ]
