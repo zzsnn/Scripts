@@ -366,6 +366,30 @@
             "repo": "https://github.com/zzsn",
             "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
             "script": "https://raw.githubusercontent.com/xxxxx"
+    },
+
+    {
+          "id": "aqcck",
+          "name": "爱企查",
+          "keys": ["aqcck", "aqcck2", "aqcck3", "aqcck4", "aqcck5", "aqcck6"],
+          "author": "@zzsnn",
+          "settings": [{
+          "id": "aqcstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "aqccount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
     }
 
   ]
