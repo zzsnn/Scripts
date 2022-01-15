@@ -391,11 +391,10 @@
           "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
           "script": "https://raw.githubusercontent.com/xxxxx"
     },
-    
-           {
-            "id": "ddtj",
-            "name": "多点淘金",
-            "keys": ["ddtjunionid", "ddtjtoken"],
+       {
+            "id": "ddtjunionid",
+            "name": "多点淘金uid",
+            "keys": ["ddtjunionid"],
             "author": "@zzsnn",
             "settings": [{
                 "id": "ddtjstatus",
@@ -406,6 +405,31 @@
               },
               {
                 "id": "ddtjunionid",
+                "val": "",
+                "name": "CK 列表",
+                "type": "textarea",
+                "rows": 8,
+                "desc": "ddtjCK 列表 (JSON 格式)"
+              } ],
+            "repo": "https://github.com/zzsn",
+            "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+            "script": "https://raw.githubusercontent.com/xxxxx"
+    },
+
+       {
+            "id": "ddtjtoken",
+            "name": "多点淘金token",
+            "keys": ["ddtjtoken"],
+            "author": "@zzsnn",
+            "settings": [{
+                "id": "ddtjstatus",
+                "val": "1",
+                "name": "并发执行账号数",
+                "type": "text",
+                "desc": "默认单账号跑任务，指定大于1的数值时，将并发执行多个账号的任务，请勿设置过大，避免NE工具崩溃（太大估计会崩溃吧）"
+              },
+              {
+                "id": "ddtjtoken",
                 "val": "",
                 "name": "CK 列表",
                 "type": "textarea",
