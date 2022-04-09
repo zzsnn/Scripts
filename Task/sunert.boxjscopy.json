@@ -439,6 +439,102 @@
             "repo": "https://github.com/zzsn",
             "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
             "script": "https://raw.githubusercontent.com/xxxxx"
+    } ,
+
+    {
+          "id": "sqxs",
+          "name": "新书旗小说",
+          "keys": ["sqxsyhurl", "sqxsua", "sqxsyhbody", "sqxsqdbody", "sqxsscbody", "sqxsspbody", "sqxsyd100ck", "sqxsyd100ua", "sqxsyd100body", "sqxsydck", "sqxsydbody", "sqxssclburl", "sqxssjbbody", "shuqisplburl", "sqxszpspbody", "sqxszpbody", "sqxsuid", "sqxsyhurl2", "sqxsua2", "sqxsyhbody2", "sqxsqdbody2", "sqxsscbody2", "sqxsspbody2", "sqxsyd100ck2", "sqxsyd100ua2", "sqxsyd100body2", "sqxsydck2", "sqxsydbody2", "sqxssclburl2", "sqxssjbbody2", "shuqisplburl2", "sqxszpspbody2", "sqxszpbody2", "sqxsuid2", "sqxsyhurl3", "sqxsua3", "sqxsyhbody3", "sqxsqdbody3", "sqxsscbody3", "sqxsspbody3", "sqxsyd100ck3", "sqxsyd100ua3", "sqxsyd100body3", "sqxsydck3", "sqxsydbody3", "sqxssclburl3", "sqxssjbbody3", "shuqisplburl3", "sqxszpspbody3", "sqxszpbody3", "sqxsuid3", "sqxsyhurl4", "sqxsua4", "sqxsyhbody4", "sqxsqdbody4", "sqxsscbody4", "sqxsspbody4", "sqxsyd100ck4", "sqxsyd100ua4", "sqxsyd100body4", "sqxsydck4", "sqxsydbody4", "sqxssclburl4", "sqxssjbbody4", "shuqisplburl4", "sqxszpspbody4", "sqxszpbody4", "sqxsuid4"],
+          "author": "@zzsnn",
+          "settings": [{
+          "id": "sqxsstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "sqxscount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
+    } ,
+
+    {
+          "id": "fqxs",
+          "name": "新番茄小说",
+          "keys": ["fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4"],
+          "author": "@zzsnn",
+          "settings": [{
+          "id": "fqxsstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "fqxscount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
+    } ,
+
+    {
+          "id": "dygy",
+          "name": "抖音果园无限水滴版",
+          "keys": ["dygyCookies", "dygyUA", "dygyCookies2", "dygyUA2", "dygyCookies3", "dygyUA3", "dygyCookies4", "dygyUA4", "dygyCookies5", "dygyUA5",],
+          "author": "@zzsnn",
+          "settings": [{
+          "id": "dygystatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "dygycount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
+    } ,
+
+    {
+          "id": "fqct",
+          "name": "番茄畅听",
+          "keys": ["fccturl", "fqct", "host", "fccturl2", "fqct2", ],
+          "author": "@zzsnn",
+          "settings": [{
+          "id": "fqctstatus",
+          "name": "当前账号",
+          "val": "1",
+          "type": "number",
+          "desc": "当前账号对应"
+    },
+    {
+          "id": "fqctcount",
+          "name": "账号个数",
+          "val": "1",
+          "type": "number",
+          "desc": "需要几个账号，数字为几"
+    }],
+          "repo": "https://github.com/zzsn",
+          "icons": ["https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg", "https://ghproxy.com/https://raw.githubusercontent.com/zzsnn/zzsnn.github.io/master/img/avatar.jpg"],
+          "script": "https://raw.githubusercontent.com/xxxxx"
     }
 
   ]
