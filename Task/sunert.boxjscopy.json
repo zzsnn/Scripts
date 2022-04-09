@@ -492,7 +492,7 @@
     {
           "id": "dygy",
           "name": "抖音果园无限水滴版",
-          "keys": ["dygyCookies", "dygyUA", "dygyCookies2", "dygyUA2", "dygyCookies3", "dygyUA3", "dygyCookies4", "dygyUA4", "dygyCookies5", "dygyUA5",],
+          "keys": ["dygyCookies", "dygyUA", "dygyCookies2", "dygyUA2", "dygyCookies3", "dygyUA3", "dygyCookies4", "dygyUA4", "dygyCookies5", "dygyUA5"],
           "author": "@zzsnn",
           "settings": [{
           "id": "dygystatus",
@@ -516,7 +516,7 @@
     {
           "id": "fqct",
           "name": "番茄畅听",
-          "keys": ["fccturl", "fqct", "host", "fccturl2", "fqct2", ],
+          "keys": ["fccturl", "fqct", "host", "fccturl2", "fqct2"],
           "author": "@zzsnn",
           "settings": [{
           "id": "fqctstatus",
