@@ -466,19 +466,19 @@
     } ,
 
     {
-          "id": "fqxs",
+          "id": "xfqxs",
           "name": "新番茄小说",
           "keys": ["fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4"],
           "author": "@zzsnn",
           "settings": [{
-          "id": "fqxsstatus",
+          "id": "xfqxsstatus",
           "name": "当前账号",
           "val": "1",
           "type": "number",
           "desc": "当前账号对应"
     },
     {
-          "id": "fqxscount",
+          "id": "xfqxscount",
           "name": "账号个数",
           "val": "1",
           "type": "number",
