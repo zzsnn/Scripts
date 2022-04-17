@@ -351,7 +351,7 @@
             "settings": [{
                 "id": "opposcConcurrency",
                 "val": "1",
-                "name": "并发执行账号数",
+                "name": "并发执行账号数", x-github-client://openRepo/https://github.com/zzsnn/Scripts?branch=master&filepath=Task%2Fsunert.boxjscopy.json
                 "type": "text",
                 "desc": "默认单账号跑任务，指定大于1的数值时，将并发执行多个账号的任务，请勿设置过大，避免NE工具崩溃（太大估计会崩溃吧）"
               },
@@ -468,7 +468,7 @@
     {
           "id": "xfqxs",
           "name": "新番茄小说",
-          "keys": ["fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4"],
+          "keys": ["fqxsurl", "fqxsbxurl", "fqxscookie", "fqxstoken", "fqxsua", "fqxsxsscookie", "fqxsurl2", "fqxsbxurl2", "fqxscookie2", "fqxstoken2", "fqxsua2", "fqxsxsscookie2", "fqxsurl3", "fqxsbxurl3", "fqxscookie3", "fqxstoken3", "fqxsua3", "fqxsxsscookie3", "fqxsurl4", "fqxsbxurl4", "fqxscookie4", "fqxstoken4", "fqxsua4", "fqxsxsscookie4", "fqxsurl5", "fqxsbxurl5", "fqxscookie5", "fqxstoken5", "fqxsua5", "fqxsxsscookie5"],
           "author": "@zzsnn",
           "settings": [{
           "id": "xfqxsstatus",
